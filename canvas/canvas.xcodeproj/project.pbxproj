@@ -422,6 +422,7 @@
 				AFB116A41A0C06EC00F069EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		AFB116A51A0C06EC00F069EE /* Build configuration list for PBXNativeTarget "canvasTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +431,7 @@
 				AFB116A71A0C06EC00F069EE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
